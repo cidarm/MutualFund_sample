@@ -1,0 +1,101 @@
+[
+    [
+        "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1536975272963,
+            "changeTime": 1536975272963,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1536975272963,
+            "changeTime": 1536975272963,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1537022038219,
+            "changeTime": 1537022038219,
+            "contentHash": "e06b7379bb8b6b138298025ffea2c8760aff4665"
+        }
+    ],
+    [
+        "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1536975272963,
+            "changeTime": 1536975272963,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer",
+        {
+            "state": "n",
+            "sourcePath": "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 288,
+            "modifiedTime": 1537019033987,
+            "changeTime": 1537019033987,
+            "contentHash": "536320e1ac7c038dd9815eed25ecda4d75573df1",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app/main/default/permissionsets/DreamInvest.permissionset-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 382,
+            "modifiedTime": 1537022038220,
+            "changeTime": 1537022038220,
+            "contentHash": "f0fbbaa4332b018ce31b571747fe48e69f59b5fa"
+        }
+    ],
+    [
+        "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app/main/default/permissionsets",
+        {
+            "state": "u",
+            "sourcePath": "/Users/cidarmendizabal/Documents/Workspace/MutualFundExplorer/MutualFundExplorer/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1537022038220,
+            "changeTime": 1537022038220,
+            "contentHash": "60680eef6555307b3497314153664b6229838daf"
+        }
+    ]
+]
